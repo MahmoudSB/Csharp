@@ -1,0 +1,12 @@
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\bin\Debug\s7.net.exe.config
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\bin\Debug\s7.net.exe
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\bin\Debug\s7.net.pdb
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\bin\Debug\S7.Net.dll
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.Form1.resources
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.csproj.CopyComplete
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.exe
+C:\Users\mahmo\Desktop\cs\s7.net\s7.net\obj\Debug\s7.net.pdb

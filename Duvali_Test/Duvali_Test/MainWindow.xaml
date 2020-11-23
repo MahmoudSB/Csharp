@@ -1,0 +1,83 @@
+﻿<Window x:Class="Duvali_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Duvali_Test"
+        xmlns:Sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Duvali" FontSize="14" Height="600" Width="800">
+    
+    <Window.Resources>
+        <Style x:Key="MyButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid Background="{TemplateBinding Background}">
+                            <ContentPresenter x:Name="MyContentPresenter" 
+                                          Content="{TemplateBinding Content}"
+                                          HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+                <Trigger Property="IsEnabled" Value="false">
+                    <Setter Property="Background" Value="#FFC3F4C3" />
+                    <Setter Property="Foreground" Value="Gray" />
+                    <Setter Property="BorderBrush" Value="Black" />
+                    <Setter Property="BorderThickness" Value="1,1,1,1" />
+                    <Setter Property="FontSize" Value="16" />
+                    <Setter Property="FontWeight" Value="Medium" />
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="true">
+                    <Setter Property="BorderBrush" Value="Black" />
+                    <Setter Property="BorderThickness" Value="1,1,1,1" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid x:Name="MainGrid" Background="#FF454545" SizeChanged="MainGrid_SizeChanged">
+
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="MainStackPanel" Grid.Row="0" Orientation="Vertical">
+            <StackPanel x:Name="Header" Orientation="Horizontal" Height="50" Background="DarkGray" Margin="0,1,0,1">
+                <Button x:Name="btnConnectionPage" Content="Connection" Style="{StaticResource MyButtonStyle}" Width="100" Height="42" Margin="175,0,0,0" Click="btnConnectionPage_Click"/>
+                <Button x:Name="btnMonitorPage" Content="Monitor" Style="{StaticResource MyButtonStyle}" Width="100" Height="42" Margin="10,0,0,0" Click="btnMonitorPage_Click"/>
+                <Button x:Name="btnControlPage" Content="Control" Style="{StaticResource MyButtonStyle}" Width="100" Height="42" Margin="10,0,0,0" Click="btnControlPage_Click"/>
+                <Button x:Name="btnTrendsPage" Content="Trends" Style="{StaticResource MyButtonStyle}" Width="100" Height="42" Margin="10,0,0,0" Click="btnTrendsPage_Click"/>
+            </StackPanel>
+            <Frame x:Name="MainFrame" Background="LightGray" Height="490" NavigationUIVisibility="Hidden"/>
+        </StackPanel>
+
+        <StatusBar Grid.Row="1">
+            <StatusBarItem>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="IP:"/>
+                    <Label x:Name="tbxIP" Content="192.168.10.245"/>
+                </StackPanel>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Status:"/>
+                    <Label x:Name="tbxStatus" Content="Offline"/>
+                </StackPanel>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <StackPanel Orientation="Horizontal">
+                    <Ellipse x:Name="StatusEllipse" Width="15" Height="15" Stroke="Black"></Ellipse>
+                </StackPanel>
+            </StatusBarItem>
+        </StatusBar>
+        
+    </Grid>
+</Window>

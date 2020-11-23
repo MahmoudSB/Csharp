@@ -1,0 +1,92 @@
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\Connection.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\RW.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\Connection.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\RW.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\bin\Debug\S7.Net.dll
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\bin\Debug\S7.Net.pdb
+C:\Users\mahmo\Desktop\cs\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\bin\Debug\S7.Net.dll
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\bin\Debug\S7.Net.pdb
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\Connection.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\RW.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\Connection.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\RW.baml
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\WpfApp1 - Copy\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\bin\Debug\S7.Net.dll
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\bin\Debug\S7.Net.pdb
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\Connection.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\Connection.baml
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\Data.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali\WpfApp1\obj\Debug\Data.baml
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Connection.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Control.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Data.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\App.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\bin\Debug\S7.Net.dll
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\bin\Debug\S7.Net.pdb
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Connection.baml
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Data.baml
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Control.baml
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Graph.g.cs
+C:\Users\mahmo\Desktop\cs\Duvali_CS\WpfApp1\obj\Debug\Graph.baml

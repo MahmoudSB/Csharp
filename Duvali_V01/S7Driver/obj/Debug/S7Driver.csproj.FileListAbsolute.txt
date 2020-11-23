@@ -1,0 +1,4 @@
+C:\Users\mahmo\Desktop\cs\Duvali_V01\S7Driver\obj\Debug\S7Driver.csprojAssemblyReference.cache
+C:\Users\mahmo\Desktop\cs\Duvali_V01\S7Driver\obj\Debug\S7Driver.Properties.Resources.resources
+C:\Users\mahmo\Desktop\cs\Duvali_V01\S7Driver\obj\Debug\S7Driver.csproj.GenerateResource.cache
+C:\Users\mahmo\Desktop\cs\Duvali_V01\S7Driver\obj\Debug\S7Driver.csproj.CoreCompileInputs.cache

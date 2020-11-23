@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Machine>
+  <ipAddress>192.168.10.245</ipAddress>
+  <cpu>S71200</cpu>
+  <rack>0</rack>
+  <slot>1</slot>
+</Machine>

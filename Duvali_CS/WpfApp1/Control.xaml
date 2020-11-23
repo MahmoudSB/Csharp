@@ -1,0 +1,30 @@
+﻿<Page x:Class="WpfApp1.Control"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Control"
+      FontSize="18">
+
+    <Grid Background="#FFF7F7F7"  Height="450" Margin="0,0,0,-0.4" VerticalAlignment="Top" Loaded="GridLoad" >
+
+        <TextBox x:Name="TB_Status"  Margin="229,321,536,0" Text="" 
+            HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+            Height="30" VerticalAlignment="Top" IsReadOnly="True"/>
+        <Button x:Name="pb_InicioOf" Content="Inicio OF" Margin="477,104,229,282" Click="PB_InicioofClickHandler"/>
+        <Button x:Name="pb_Ligado" Content="Ligado" Margin="614,105,92,282" Click="PB_LigadoClickHandler"/>
+        <Button x:Name="pb_rstCnt" Content="Rst CNT" Margin="477,206,229,181" Click="PB_rstCntClickHandler"/>
+        <Button x:Name="pb_PrimMetro" Content="Pr. Metro" Margin="614,207,92,181" Click="PB_PrimMetroClickHandler"/>
+        <Button x:Name="pb_Revistar" Content="Revistar" Margin="547,301,159,87" Click="PB_RevistarClickHandler"/>
+        <StackPanel Orientation="Horizontal" Margin="24,10,425,10.4" >
+            <StackPanel.Background>
+                <ImageBrush ImageSource="CL1.jpg"/>
+            </StackPanel.Background>
+        </StackPanel>
+
+    </Grid>
+
+</Page>
